@@ -134,3 +134,39 @@ cite {
     font-style: normal;
     font-weight: bold;
 }
+
+/* forth section */
+
+.callaction {
+    background-color: #3882f6;
+    margin: 100px 400px;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    color: #f9faf8;
+}
+
+h4 {
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+.callaction p {
+    margin: 0;
+}
+
+button {
+    font-family: inherit;
+    padding: 10px 50px;
+    font-size: inherit;
+    font-weight: bold;
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 8px;
+    margin-top: 10px;
+}

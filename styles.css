@@ -74,7 +74,7 @@ h3 {
     justify-content: center;
     gap: 10px;
     margin-bottom: 100px;
-    color: #3d495a;
+    color: #1f2937;
 }
 
 .img_info {
@@ -101,4 +101,36 @@ h2 {
     color: #1f2937;
     text-align: center;
     margin: 50px;
+}
+
+
+/* third section */
+
+.quote {
+    background-color: #E5E7EB; 
+    padding: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: #1f2937;
+}
+
+quote {
+    font-size: 36px;
+    font-weight: 200;
+    font-style: italic;
+    max-width: 900px;
+    display: block;
+    text-align: left;
+    padding: 20px;
+}
+
+cite {
+    display: flex;
+    align-self: flex-end;
+    padding-right: 400px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
 }
